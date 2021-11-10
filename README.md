@@ -13,8 +13,6 @@
     <br />
 </div>
 
-
-
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
@@ -40,6 +38,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
+<img src="images/screenshot.jpeg" alt="Logo" width="800">
 
 Bash Shell Script Database Management System (DBMS):
 
@@ -47,9 +46,6 @@ The Project aim to develop DBMS, that will enable users to store and retrieve th
 
 
 Use the `BLANK_README.md` to get started.
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 
 
 ### Hints:
@@ -61,9 +57,6 @@ Use the `BLANK_README.md` to get started.
 
 
 * [Bash-Script]
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 
 
 <!-- GETTING STARTED -->
@@ -114,15 +107,11 @@ Don't forget to give the project a star! Thanks again!
 
 Distributed under the ITI License. See `LICENSE.txt` for more information.
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 <!-- CONTACT -->
 ## Contributers Names
 
 [Fathi Yehya]
 [Hani Mohsen]
 [Mohamed Ali]
-
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 [product-screenshot]: images/screenshot.jpeg
