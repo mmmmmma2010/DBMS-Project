@@ -38,7 +38,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-<img src="images/screenshot.jpeg" alt="Logo" width="800">
+<img src="images/screenshot.jpeg" alt="Logo">
 
 Bash Shell Script Database Management System (DBMS):
 
