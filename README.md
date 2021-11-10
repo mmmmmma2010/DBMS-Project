@@ -110,7 +110,7 @@ Distributed under the ITI License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contributers Names
 
-[Fathi Yehya]
+[Fathi Eldeabas]
 [Hani Mohsen]
 [Mohamed Ali]
 
