@@ -45,9 +45,6 @@ Bash Shell Script Database Management System (DBMS):
 The Project aim to develop DBMS, that will enable users to store and retrieve the data from Hard-disk.
 
 
-Use the `BLANK_README.md` to get started.
-
-
 ### Hints:
 
 - The Database will store as Directory on Current Script File
